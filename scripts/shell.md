@@ -14,4 +14,17 @@ description: How to use shell
   * 交互式(interactive)：解释执行用户的命令，用户输入一条命令，shell就解释一条
   * 批处理(batch)：用户事先写了Shell脚本，让Shell一次把这些命令全部执行完。
 * Shell脚本是解释执行的，**不需要编译**。Shell程序从脚本中的一行一行读取并执行这些命令，相当于一个用户把脚本中命令敲到Shell提示符下执行。
-*
+
+
+
+## 常用Shell类型
+
+脚本解释器：bash，sh，csh，ksh等。
+
+bash：linux默认的shell
+
+1. &#x20;可以使用类似DOS下面的doskey功能，用方向键查询和快速输入并修改指令。
+2. 自动通过查找匹配方式给出以某字符串开头的命令。
+3. 包含帮助功能`help`&#x20;
+
+## Shell脚本编写
