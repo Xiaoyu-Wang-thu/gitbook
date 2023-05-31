@@ -4,9 +4,9 @@
 
 ## Scripts
 
-* [Shell](scripts/shell.md)
-* [This is a page for git](scripts/this-is-a-page-for-git.md)
-* [This is a page for docker](scripts/this-is-a-page-for-docker.md)
+* [Shell](group-1/this-is-a-page-for-cmake.md)
+* [This is a page for git](group-1/this-is-a-page-for-git.md)
+* [This is a page for docker](group-1/this-is-a-page-for-docker.md)
 
 ## Group 2
 
