@@ -4,7 +4,7 @@
 
 ## Group 1
 
-* [This is a page for cmake](group-1/this-is-a-page-for-cmake.md)
+* [Shell](group-1/shell.md)
 * [This is a page for git](group-1/this-is-a-page-for-git.md)
 * [This is a page for docker](group-1/this-is-a-page-for-docker.md)
 
