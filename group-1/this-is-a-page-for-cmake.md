@@ -4,7 +4,7 @@ description: How to use shell
 
 # Shell
 
-**简介**
+## **简介**
 
 * Shell是一个用C语言编写的程序，是用户使用Linux的桥梁，用户的很多工作都可以通过Shell来完成。
 * **Shell**既是一种**命令语言**，又是一种**程序设计**语言。
